@@ -11,7 +11,7 @@ evryting is a simple command line interface port scanner that prompts user for i
 
 To run the script from anywhere, add the following lines to your shell 
  
-  " export PATH=$PATH:/evryting_0.1/evrydamnting "         
+  " export PATH=$PATH:/evryting_0.1/evryting "         
 
 then you can run this tool from anywhere in your terminal by typing 
 "  evryting "
