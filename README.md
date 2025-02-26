@@ -13,5 +13,6 @@ To run the script from anywhere, add the following lines to your shell
  
   " export PATH=$PATH:/evryting_0.1/evrydamnting "         
 
-then you can run this tool from anywhere in your terminal
+then you can run this tool from anywhere in your terminal by typing 
+"  evrydamnting "
 
