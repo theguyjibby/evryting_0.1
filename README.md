@@ -2,8 +2,8 @@ evryting is a simple command line interface port scanner that prompts user for i
 
 **instructions-**
   To run this tool in your command line after cloning it:  change directory into evryting_0.1 
-   ** bash
-    " cd evryting_0.1 "     **
+  
+    " cd evryting_0.1 "    
   
   then type in " evrydamnting " to run the tool
 
