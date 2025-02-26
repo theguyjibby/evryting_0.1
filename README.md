@@ -5,12 +5,12 @@ evryting is a simple command line interface port scanner that prompts user for i
    ** bash
     'cd evryting_0.1'      **
   
-  then type in 'evryting' to run the tool
+  then type in 'evrydamnting' to run the tool
 
    ** or**
 
 To run the script from anywhere, add the following lines to your shell 
  ** bash 
-  'export PATH=$PATH:/evryting_0.1/evryting' **             
+  'export PATH=$PATH:/evryting_0.1/evrydamnting' **             
 then you can run this tool from anywhere in your terminal
 
