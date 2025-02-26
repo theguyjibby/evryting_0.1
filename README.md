@@ -5,11 +5,7 @@ evryting is a simple command line interface port scanner that prompts user for i
   
     " cd evryting_0.1 "    
   
-   then type in 
- 
-   " evrydamnting " 
-
-  to run the tool
+   then type in       " evrydamnting "       to run the tool
 
    ** or **
 
